@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Web Developer with aspirations of becoming a Full-Stack Developer.<br>👯 I’m looking to collaborate on startups and internships<br>🤝 I’m looking for help with Competitive Programming<br>🌱 I’m currently learning React.js<br>💬 Ask me about Designing<br>⚡ Fun fact : Foodie always
+🔭 I’m currently working as Web Developer with aspirations of becoming a Full-Stack Developer.<br>👯 I’m looking to collaborate on startups and internships<br>🤝 I’m looking for help with Competitive Programming<br>🌱 I’m currently learning MERN<br>💬 Ask me about Designing<br>⚡ Fun fact : Foodie always
 
 
 ## 🌐 Socials:
